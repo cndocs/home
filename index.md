@@ -2,7 +2,7 @@
 
 ##Spring Framework 4
 
->文档地址：[http://spring.cndocs.tk](http://spring.cndocs.tk)
+>文档地址：[http://spring.cndocs.ml](http://spring.cndocs.ml)
 
 该文档目前正在翻译中，想要参与翻译的可以通过下面地址了解：
 
@@ -17,6 +17,6 @@
 
 ##MyBatis Generator
 
->文档地址：[http://mbg.cndocs.tk](http://mbg.cndocs.tk)
+>文档地址：[http://mbg.cndocs.ml](http://mbg.cndocs.ml)
 
 该文档基本上翻译完了，但是少数几页还没翻译，需要后续完善。
